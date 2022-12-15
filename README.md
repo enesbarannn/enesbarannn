@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @enesbarannn
-- 👀 I’m interested in codification.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning pharmacy.
 - 💞️ I’m trying to learn codification.
-- 📫 You can reach me on my e-mail.
+- 📫 You can reach me on my e-mail:
 - (enesbarangungor@gmail.com)
 
 <!---
